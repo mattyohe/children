@@ -13,3 +13,5 @@ didMoveToParent: Optional(<Children.ViewController: 0x7af4a260>)
 viewDidAppear
 didMoveToParent: Optional(<Children.ViewController: 0x7af4a260>)
 ```
+
+Calling doMagic() inside of viewDidLoad behaves appropriately.
